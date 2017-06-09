@@ -25,7 +25,7 @@ SECRET_KEY = 'i*e$yyx$18vhxt(h6l9r$09dp&jv842qquei2g54@f%&6-letg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'magiclo.pythonanywhere.com']
 
 
 # Application definition
